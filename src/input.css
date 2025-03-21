@@ -3,3 +3,10 @@
 * {
   @apply font-sans box-border;
 }
+
+.p_input {
+  @apply w-full min-h-[150px] text-[#333] p-5 bg-white rounded-[5px] focus:outline-none my-[20px] mx-[0px] relative;
+}
+.img_delete {
+  @apply w-[25px] absolute bottom-[15px] right-[15px] cursor-pointer select-none;
+}
