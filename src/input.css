@@ -1,4 +1,5 @@
 @import "tailwindcss";
+/* All these are the style class */
 
 * {
   @apply font-sans box-border;
