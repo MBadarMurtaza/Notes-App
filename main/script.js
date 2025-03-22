@@ -1,3 +1,4 @@
+// This is the logic of my code
 const inputBox = document.getElementById("input");
 const createBtn = document.getElementById("btn");
 let notes = document.querySelectorAll(".p_input");
